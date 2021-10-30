@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+body {
+  background-color: lightgoldenrodyellow;
+  color:black;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+  line-height: 1.6em;
+  margin:0;
+}
+#main-header{
+  background-color:orange;
+  color: black;
+}
+#navbar{
+  background-color:darkgoldenrod;
+  color: aliceblue;
+}
+#navbar ul{
+  padding: 0;
+  list-style: none;
+}
+#navbar li{
+  display: inline;
+}
