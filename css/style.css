@@ -50,6 +50,12 @@ body {
   line-height: 1.6em;
   padding-top: 5px;
 }
+#main{
+  float: left;
+  width: 70%;
+  padding: 0 30px;
+  box-sizing: border-box;
+}
 
 @media (max-width:600px) {
   #main{
